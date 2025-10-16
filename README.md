@@ -1,4 +1,4 @@
 # first
 this is my first repository
 <br>
-Author - Harkamal Takhi
+Author - Harkamal Takhi26
